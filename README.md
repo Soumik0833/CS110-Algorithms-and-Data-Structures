@@ -1,2 +1,2 @@
-# CS110Algorithms-and-Data-Structures
+# CS110-Algorithms-and-Data-Structures
 Academic Course Code
